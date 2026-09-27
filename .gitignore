@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database
+backend/tasks.db
+
+# Editor/OS
+.vscode/
+.DS_Store
